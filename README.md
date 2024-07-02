@@ -1,7 +1,4 @@
 # UAS PEMROGRAMAN MOBILE
-
-## Informasi Pribadi
-
 | **Nama** | Hilman Ihza Amrullah |
 | --- | --- |
 | **NIM** | 312210310 |
