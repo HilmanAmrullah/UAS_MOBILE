@@ -1,14 +1,12 @@
-# Biodata
-
-Selamat datang di repositori GitHub saya! Berikut adalah beberapa informasi tentang saya.
+# UAS PEMROGRAMAN MOBILE
 
 ## Informasi Pribadi
 
-| **Nama** | [Nama Anda] |
+| **Nama** | [Hilman Ihza Amrullah] |
 | --- | --- |
-| **NIM** | [NIM Anda] |
-| **Kelas** | [Kelas Anda] |
-| **Mata Kuliah** | [Mata Kuliah Anda] |
+| **NIM** | [312210310] |
+| **Kelas** | [TI.22.A.3] |
+| **Mata Kuliah** | [Pemrograman Mobile] |
 
 ## Proyek
 
