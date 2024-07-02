@@ -3,7 +3,6 @@
 ## Informasi Pribadi
 
 | **Nama** | Hilman Ihza Amrullah |
-| --- | --- |
 | **NIM** | 312210310 |
 | **Kelas** | TI.22.A.3 |
 | **Mata Kuliah** | Pemrograman Mobile |
